@@ -1,14 +1,14 @@
 {
-  "id": "уникальный номер баг-репорта",
-  "title": "краткое описание бага",
+  "id": "id1",
+  "title": "brief_description_of_the_bug",
   "steps_for_represent": [
     1
     2
     3
     ]
-  "expected_result": "ожидаемый результат",
-  "actual_result": "фактический результат",
-  "enviraments": "окружение",
-  "priority": "приоритет",
-  "severity": "серьезность"
+  "expected_result": "e_r",
+  "actual_result": "a_r",
+  "enviraments": "env",
+  "priority": "pr",
+  "severity": "sev"
 }
